@@ -23,7 +23,7 @@
 
 # All about stranded Aussies
 
-Australian citizens and permanent residents are stranded all over the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com.
+Australian citizens and permanent residents are stranded all over the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com if you have any feedback.
 
 
 <a id="org681acc5"></a>

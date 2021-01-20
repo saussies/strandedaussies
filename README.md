@@ -1,71 +1,32 @@
 
 # Table of Contents
 
-1.  [All about stranded Aussies](#org07b9f96)
-    1.  [Government](#org552ffbb)
-    2.  [Communities](#org54617b8)
-    3.  [Campaigns](#orge4167a5)
-    4.  [Resources](#org09c5752)
-    5.  [Timeline](#org687d38c)
-    6.  [General References](#org368addf)
-    7.  [Numbers](#org41897f6)
-        1.  [Caps](#orgdea8594)
-        2.  [Stranded](#org3808934)
-        3.  [Returned](#org45d289a)
-        4.  [Other](#org352060c)
-    8.  [How you can help stranded Aussies](#org8caf666)
-    9.  [FAQ](#org59e9b42)
-        1.  [Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?](#orgaefed52)
-        2.  [They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.](#org9b63113)
+1.  [All about stranded Aussies](#org7e06f30)
+    1.  [Timeline](#org681acc5)
+    2.  [Numbers](#orgbaa5aaa)
+        1.  [Caps](#orgb9d713e)
+        2.  [Stranded](#org6eb5272)
+        3.  [Returned](#orgf3a2a9a)
+    3.  [Solutions](#orgbaa18c3)
+    4.  [Government updates](#orgfe575ef)
+    5.  [Community updates](#orgc3fb4bf)
+    6.  [Campaigns](#org40032e8)
+    7.  [Resources](#org673aac0)
+    8.  [How you can help stranded Aussies](#orga3b5a03)
+    9.  [FAQ](#orgf24e23c)
+        1.  [Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?](#orgad1fecf)
+        2.  [They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.](#orge583d4e)
+2.  [General References](#org96afc43)
 
 
-<a id="org07b9f96"></a>
+<a id="org7e06f30"></a>
 
 # All about stranded Aussies
 
-Australian citizens and permanent residents are stranded all over the world unable to travel to Australia.
+Australian citizens and permanent residents are stranded all over the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com.
 
 
-<a id="org552ffbb"></a>
-
-## Government
-
--   [Returning to Australia | Smartraveller](https://www.smartraveller.gov.au/covid-19/covid-19/returning-australia)
--   [DFAT Registration Portal](https://covid19.dfat.gov.au)
--   [Media Center | Prime Minister of Australia](https://www.pm.gov.au/media)
-    -   search for 'national cabinet' there
-
-
-<a id="org54617b8"></a>
-
-## Communities
-
--   [twitter #strandedAussies](https://twitter.com/hashtag/strandedAussies)
--   [r/australia](https://www.reddit.com/r/australia)
-    -   [search for 'stranded' in r/australia](https://www.reddit.com/r/australia/search/?q=stranded&restrict_sr=1)
--   [r/CoronavirusDownunder](https://www.reddit.com/r/CoronavirusDownunder)
-    -   [search for 'stranded' on r/CoronavirusDownunder](https://www.reddit.com/r/CoronavirusDownunder/search/?q=stranded&restrict_sr=on)
--   [r/strandedaussies](https://www.reddit.com/r/strandedaussies/)
-
-
-<a id="orge4167a5"></a>
-
-## Campaigns
-
--   [Remove the cap](https://removethecap.com/)
--   [Protect the right of stranded Aussies - Amnesty International Australia](https://action.amnesty.org.au/act-now/protect-the-right-of-stranded-aussies)
--   [Help Stranded Aussies](https://alp.org.au/strandedaussies)
--   [Stranded Aussies | BringThemHome](https://www.bringthemhome-australia.com)
-
-
-<a id="org09c5752"></a>
-
-## Resources
-
--   [Commonwealth Ombudsman](https://www.ombudsman.gov.au)
-
-
-<a id="org687d38c"></a>
+<a id="org681acc5"></a>
 
 ## Timeline
 
@@ -98,21 +59,12 @@ Australian citizens and permanent residents are stranded all over the world unab
 -   **2021-01-16:** The Federal government announced 20 repatriation flights to return Australian citizens stranded overseas <sup><a id="fnr.64" class="footref" href="#fn.64">64</a></sup>.
 
 
-<a id="org368addf"></a>
-
-## General References
-
--   [COVID-19 pandemic in Australia - Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Australia)
--   [Timeline of the COVID-19 pandemic in Australia - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Australia)
--   [National Cabinet (Australia) - Wikipedia](https://en.wikipedia.org/wiki/National_Cabinet_(Australia))
-
-
-<a id="org41897f6"></a>
+<a id="orgbaa5aaa"></a>
 
 ## Numbers
 
 
-<a id="orgdea8594"></a>
+<a id="orgb9d713e"></a>
 
 ### Caps
 
@@ -121,63 +73,104 @@ Initially about 6500, then lowered to about 4000 in July <sup><a id="fnr.25.100"
 The cap changes often take place gradually.
 
 
-<a id="org3808934"></a>
+<a id="org6eb5272"></a>
 
 ### Stranded
 
 Most of the numbers are number of people registered with DFAT that want to return, provided by DFAT. Some higher numbers (100k / 30k in the UK) were estimates from BARA.
 
--   **2020-03-27:** 20k (<https://www.theguardian.com/world/2020/mar/27/overseas-arrivals-to-australia-to-be-quarantined-in-hotels-for-two-weeks-over-coronavirus>)
--   **2020-08-20:** 18k (<https://www.theguardian.com/business/2020/aug/20/travel-industry-attacks-state-premiers-saying-border-closures-cost-84m-a-day>)
--   **2020-08-25:** 18.8k (<https://www.theguardian.com/australia-news/2020/aug/26/constitutional-question-is-it-legal-to-limit-how-many-australian-citizens-can-fly-home-each-week>)
--   **2020-08-28:** 100k (<https://www.theguardian.com/australia-news/2020/aug/29/airlines-warn-flying-back-100000-stranded-australians-will-take-six-months-unless-travel-caps-eased>)
--   **2020-09-12:** 25k / 100k (<https://www.theguardian.com/australia-news/2020/sep/13/australian-diplomats-sent-to-heathrow-airport-to-help-stranded-citizens-due-to-travel-caps>)
--   **2020-09-15:** 28k (<https://www.theguardian.com/australia-news/2020/sep/15/why-are-more-than-25000-australians-still-stranded-overseas-six-months-into-the-pandemic>)
--   **2020-09-16:** 30k in UK alone (<https://bara.org.au/publication/australians-stranded-in-the-united-kingdom/>)
--   **2020-09-18:** 24k (<https://www.theguardian.com/world/2020/sep/18/flight-caps-on-australian-arrivals-to-be-raised-after-agreement-at-national-cabinet>)
--   **2020-10-23:** > 32k (<https://www.abc.net.au/news/2020-10-23/coronavirus-national-cabinet-international-arrivals-cap/12803846>)
--   **2020-11-13:** 35,637 (<https://www.pm.gov.au/media/national-cabinet-2>) 36500 (<https://www.theguardian.com/australia-news/2020/nov/13/stranded-australians-face-longer-wait-as-pm-declares-hotel-quarantine-alternatives-unsafe>)
--   **2020-11-26:** 36,875 (<https://www.theguardian.com/australia-news/2020/nov/26/betrayed-and-abandoned-dfat-reveals-36875-australians-still-stranded-overseas>)
--   **2020-12-15:** 39k (<https://edition.cnn.com/travel/article/australians-stranded-abroad-christmas/index.html>)
--   **2021-01-07:** 39k (<https://www.wsj.com/articles/a-year-after-covid-19-emerged-australians-still-cant-get-home-11610015403>)
--   **2021-01-08:** 38k (<https://www.theguardian.com/australia-news/2021/jan/08/scott-morrison-unveils-new-measures-to-stop-dangerous-covid-19-super-variant>)
--   **2021-01-16:** > 37k (<https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html>)
+-   **2020-03-27:** [20k](https://www.theguardian.com/world/2020/mar/27/overseas-arrivals-to-australia-to-be-quarantined-in-hotels-for-two-weeks-over-coronavirus)
+-   **2020-08-20:** [18k](https://www.theguardian.com/business/2020/aug/20/travel-industry-attacks-state-premiers-saying-border-closures-cost-84m-a-day)
+-   **2020-08-25:** [18.8k](https://www.theguardian.com/australia-news/2020/aug/26/constitutional-question-is-it-legal-to-limit-how-many-australian-citizens-can-fly-home-each-week)
+-   **2020-08-28:** [100k](https://www.theguardian.com/australia-news/2020/aug/29/airlines-warn-flying-back-100000-stranded-australians-will-take-six-months-unless-travel-caps-eased)
+-   **2020-09-12:** [25k / 100k](https://www.theguardian.com/australia-news/2020/sep/13/australian-diplomats-sent-to-heathrow-airport-to-help-stranded-citizens-due-to-travel-caps)
+-   **2020-09-15:** [28k](https://www.theguardian.com/australia-news/2020/sep/15/why-are-more-than-25000-australians-still-stranded-overseas-six-months-into-the-pandemic)
+-   **2020-09-16:** [30k in UK alone](https://bara.org.au/publication/australians-stranded-in-the-united-kingdom/)
+-   **2020-09-18:** [24k](https://www.theguardian.com/world/2020/sep/18/flight-caps-on-australian-arrivals-to-be-raised-after-agreement-at-national-cabinet)
+-   **2020-10-23:** [> 32k](https://www.abc.net.au/news/2020-10-23/coronavirus-national-cabinet-international-arrivals-cap/12803846)
+-   **2020-11-13:** [35,637](https://www.pm.gov.au/media/national-cabinet-2) / [36500](https://www.theguardian.com/australia-news/2020/nov/13/stranded-australians-face-longer-wait-as-pm-declares-hotel-quarantine-alternatives-unsafe)
+-   **2020-11-26:** [36,875](https://www.theguardian.com/australia-news/2020/nov/26/betrayed-and-abandoned-dfat-reveals-36875-australians-still-stranded-overseas)
+-   **2020-12-15:** [39k](https://edition.cnn.com/travel/article/australians-stranded-abroad-christmas/index.html)
+-   **2021-01-07:** [39k](https://www.wsj.com/articles/a-year-after-covid-19-emerged-australians-still-cant-get-home-11610015403)
+-   **2021-01-08:** [38k](https://www.theguardian.com/australia-news/2021/jan/08/scott-morrison-unveils-new-measures-to-stop-dangerous-covid-19-super-variant)
+-   **2021-01-16:** [> 37k](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="org45d289a"></a>
+<a id="orgf3a2a9a"></a>
 
 ### Returned
 
 These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including 
 
--   **2020-07-10:** 357k since 2020-03-13 (<https://www.pm.gov.au/media/national-cabinet>)
--   **2020-08-20:** 371k since March (<https://www.theguardian.com/business/2020/aug/20/travel-industry-attacks-state-premiers-saying-border-closures-cost-84m-a-day>)
--   **2020-11-13:** 414k since "the beiginning of the pandemic" (<https://www.pm.gov.au/media/national-cabinet-2>)
--   **2020-12-15:** 45k since mid-September (<https://edition.cnn.com/travel/article/australians-stranded-abroad-christmas/index.html>)
--   **2021-01-07:** 430k since "mid-March, when Australia closed its border" (<https://www.wsj.com/articles/a-year-after-covid-19-emerged-australians-still-cant-get-home-11610015403>)
--   **2021-01-16:** 440k since "people were told to reconsider the need to travel abroad at the start of the pandemic" (<https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html>)
+-   **2020-07-10:** [357k since 2020-03-13](https://www.pm.gov.au/media/national-cabinet)
+-   **2020-08-20:** [371k since March](https://www.theguardian.com/business/2020/aug/20/travel-industry-attacks-state-premiers-saying-border-closures-cost-84m-a-day)
+-   **2020-11-13:** [414k since "the beiginning of the pandemic"](https://www.pm.gov.au/media/national-cabinet-2)
+-   **2020-12-15:** [45k since mid-September](https://edition.cnn.com/travel/article/australians-stranded-abroad-christmas/index.html)
+-   **2021-01-07:** [430k since "mid-March, when Australia closed its border"](https://www.wsj.com/articles/a-year-after-covid-19-emerged-australians-still-cant-get-home-11610015403)
+-   **2021-01-16:** [440k since "people were told to reconsider the need to travel abroad at the start of the pandemic"](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="org352060c"></a>
+<a id="orgbaa18c3"></a>
 
-### Other
+## Solutions
+
+Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.65" class="footref" href="#fn.65">65</a></sup><sup>, </sup><sup><a id="fnr.66" class="footref" href="#fn.66">66</a></sup><sup>, </sup><sup><a id="fnr.67" class="footref" href="#fn.67">67</a></sup>.
 
 
-<a id="org8caf666"></a>
+<a id="orgfe575ef"></a>
+
+## Government updates
+
+-   [Returning to Australia | Smartraveller](https://www.smartraveller.gov.au/covid-19/covid-19/returning-australia)
+-   [DFAT Registration Portal](https://covid19.dfat.gov.au)
+-   [Media Center | Prime Minister of Australia](https://www.pm.gov.au/media)
+    -   search for 'national cabinet' there
+
+
+<a id="orgc3fb4bf"></a>
+
+## Community updates
+
+-   [twitter #strandedAussies](https://twitter.com/hashtag/strandedAussies)
+-   [r/australia](https://www.reddit.com/r/australia)
+    -   [search for 'stranded' in r/australia](https://www.reddit.com/r/australia/search/?q=stranded&restrict_sr=1)
+-   [r/CoronavirusDownunder](https://www.reddit.com/r/CoronavirusDownunder)
+    -   [search for 'stranded' on r/CoronavirusDownunder](https://www.reddit.com/r/CoronavirusDownunder/search/?q=stranded&restrict_sr=on)
+-   [r/strandedaussies](https://www.reddit.com/r/strandedaussies/)
+
+
+<a id="org40032e8"></a>
+
+## Campaigns
+
+-   [Remove the cap](https://removethecap.com/)
+-   [Protect the right of stranded Aussies - Amnesty International Australia](https://action.amnesty.org.au/act-now/protect-the-right-of-stranded-aussies)
+-   [Help Stranded Aussies](https://alp.org.au/strandedaussies)
+-   [Stranded Aussies | BringThemHome](https://www.bringthemhome-australia.com)
+
+
+<a id="org673aac0"></a>
+
+## Resources
+
+-   [Commonwealth Ombudsman](https://www.ombudsman.gov.au)
+
+
+<a id="orga3b5a03"></a>
 
 ## How you can help stranded Aussies
 
--   join [campaigns](#orge4167a5).
--   spread the message.
--   if you have returned to Australia, keep fighting for those who are stranded and raise awareness.
+-   Join [campaigns](#org40032e8).
+-   Spread the message.
+-   If you have returned to Australia, keep fighting for those who are stranded and raise awareness.
 
 
-<a id="org59e9b42"></a>
+<a id="orgf24e23c"></a>
 
 ## FAQ
 
 
-<a id="orgaefed52"></a>
+<a id="orgad1fecf"></a>
 
 ### Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?
 
@@ -252,7 +245,7 @@ This announcement was followed by airlines cancelling flights, news of Australia
 [2020-04-16: Stranded in the world’s biggest lockdown, Australians say Canberra is ignoring their pleas](https://www.crikey.com.au/2020/04/16/australians-stranded-abroad-covid-19/)
 
 
-<a id="org9b63113"></a>
+<a id="orge583d4e"></a>
 
 ### They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.
 
@@ -261,6 +254,15 @@ This announcement was followed by airlines cancelling flights, news of Australia
 &#x2013;scomo, [July 2020](https://www.abc.net.au/news/2020-07-08/scott-morrison-may-reduce-international-arrivals-coronavirus/12433896).
 
 People have been trying all they can to return. The caps and the lack of an orderly system have been preventing them.
+
+
+<a id="org96afc43"></a>
+
+# General References
+
+-   [COVID-19 pandemic in Australia - Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Australia)
+-   [Timeline of the COVID-19 pandemic in Australia - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Australia)
+-   [National Cabinet (Australia) - Wikipedia](https://en.wikipedia.org/wiki/National_Cabinet_(Australia))
 
 
 # Footnotes
@@ -393,4 +395,8 @@ People have been trying all they can to return. The caps and the lack of an orde
 
 <sup><a id="fn.64" href="#fnr.64">64</a></sup> <https://www.abc.net.au/news/2021-01-16/repatriation-flights-stranded-australians-coronavirus-government/13064006>
 
+<sup><a id="fn.65" href="#fnr.65">65</a></sup> <http://estherrockett.com/2021/01/12/stranded-aussies-sacrificed-for-pandemic-politics-of-paranoia/>
 
+<sup><a id="fn.66" href="#fnr.66">66</a></sup> <https://action.amnesty.org.au/act-now/protect-the-right-of-stranded-aussies>
+
+<sup><a id="fn.67" href="#fnr.67">67</a></sup> <https://www.alp.org.au/petitions/stranded-aussies/>

@@ -1,32 +1,32 @@
 
 # Table of Contents
 
-1.  [All about stranded Aussies](#org3024db3)
-    1.  [Timeline](#org6492ab1)
-    2.  [Numbers](#org6f82936)
-        1.  [Caps](#org12f725e)
-        2.  [Stranded](#org6ad26b6)
-        3.  [Returned](#org3f6aa60)
-    3.  [Solutions](#orga75a64e)
-    4.  [Government updates](#org03de782)
-    5.  [Community updates](#org4265051)
-    6.  [Campaigns](#org3ea9c06)
-    7.  [Resources](#org81eae9c)
-    8.  [How you can help stranded Aussies](#orgaab2d0b)
-    9.  [FAQ](#org59ac650)
-        1.  [Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?](#org21f54c7)
-        2.  [They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.](#org12bb54a)
-2.  [General References](#orgfcd606f)
+1.  [All about stranded Aussies](#orgf0c65f3)
+    1.  [Timeline](#org32bbe7f)
+    2.  [Numbers](#orgfad8c3c)
+        1.  [Caps](#orgad16471)
+        2.  [Stranded](#org7aa20fe)
+        3.  [Returned](#orge2703b0)
+    3.  [Solutions](#org4ed6b79)
+    4.  [Government updates](#org56f6b53)
+    5.  [Community updates](#org8052f06)
+    6.  [Campaigns](#org7f316ab)
+    7.  [Resources](#org30e44e4)
+    8.  [How you can help stranded Aussies](#org71c2368)
+    9.  [FAQ](#org76b76fe)
+        1.  [Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?](#org96bdb97)
+        2.  [They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.](#org8eb9569)
+2.  [General References](#org0b230b9)
 
 
-<a id="org3024db3"></a>
+<a id="orgf0c65f3"></a>
 
 # All about stranded Aussies
 
 Australian citizens and permanent residents are stranded around the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com if you have any feedback.
 
 
-<a id="org6492ab1"></a>
+<a id="org32bbe7f"></a>
 
 ## Timeline
 
@@ -60,12 +60,12 @@ Australian citizens and permanent residents are stranded around the world unable
 -   **2021-01-16:** The Federal government announced 20 repatriation flights to return Australian citizens stranded overseas <sup><a id="fnr.64" class="footref" href="#fn.64">64</a></sup>.
 
 
-<a id="org6f82936"></a>
+<a id="orgfad8c3c"></a>
 
 ## Numbers
 
 
-<a id="org12f725e"></a>
+<a id="orgad16471"></a>
 
 ### Caps
 
@@ -74,7 +74,7 @@ Initially about 6500, then lowered to about 4000 in July <sup><a id="fnr.25.100"
 The cap changes often take place gradually.
 
 
-<a id="org6ad26b6"></a>
+<a id="org7aa20fe"></a>
 
 ### Stranded
 
@@ -97,11 +97,11 @@ Most of the numbers are number of people registered with DFAT that want to retur
 -   **2021-01-16:** [> 37k](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="org3f6aa60"></a>
+<a id="orge2703b0"></a>
 
 ### Returned
 
-These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org6492ab1)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
+These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org32bbe7f)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
 
 Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-travel-statistics-provisional), but the following number cannot be recovered from the public data at ABS as the latter implies the number of citizens and PR arrivals were 691k from March to December and 153k from April to December.
 
@@ -113,14 +113,14 @@ Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/indust
 -   **2021-01-16:** [440k since "people were told to reconsider the need to travel abroad at the start of the pandemic"](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="orga75a64e"></a>
+<a id="org4ed6b79"></a>
 
 ## Solutions
 
 Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.65" class="footref" href="#fn.65">65</a></sup><sup>, </sup><sup><a id="fnr.66" class="footref" href="#fn.66">66</a></sup><sup>, </sup><sup><a id="fnr.67" class="footref" href="#fn.67">67</a></sup>.
 
 
-<a id="org03de782"></a>
+<a id="org56f6b53"></a>
 
 ## Government updates
 
@@ -130,7 +130,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
     -   search for 'national cabinet' there
 
 
-<a id="org4265051"></a>
+<a id="org8052f06"></a>
 
 ## Community updates
 
@@ -142,7 +142,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [r/strandedaussies](https://www.reddit.com/r/strandedaussies/)
 
 
-<a id="org3ea9c06"></a>
+<a id="org7f316ab"></a>
 
 ## Campaigns
 
@@ -157,7 +157,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [Scrap The Caps](https://scrapthecaps.org/)
 
 
-<a id="org81eae9c"></a>
+<a id="org30e44e4"></a>
 
 ## Resources
 
@@ -165,22 +165,22 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [Commonwealth Ombudsman](https://www.ombudsman.gov.au)
 
 
-<a id="orgaab2d0b"></a>
+<a id="org71c2368"></a>
 
 ## How you can help stranded Aussies
 
--   Join the [campaigns](#org3ea9c06).
+-   Join the [campaigns](#org7f316ab).
 -   If you are stranded, [register with DFAT](https://covid19.dfat.gov.au). The reported number of stranded Aussies come from their registry.
 -   If you have returned to Australia, keep advocating for those who are stranded and raise awareness.
 -   If you are a stranded international student, the sooner stranded Aussies make their way to Australia, the sooner you will. So advocate for them. Stranded Aussies should advocate for mistreated international students too.
 
 
-<a id="org59ac650"></a>
+<a id="org76b76fe"></a>
 
 ## FAQ
 
 
-<a id="org21f54c7"></a>
+<a id="org96bdb97"></a>
 
 ### Those who didn't return in March 2020 deserve no sympathy! / What didn't they return when the government told them to?
 
@@ -263,9 +263,7 @@ This announcement was followed by airlines cancelling flights, news of Australia
 > The short list of repatriations she is now taking credit for includes “444 Australians on a private charter flight from India for which our High Commission provided extensive logistical support and advice, and obtained necessary approvals in complex circumstances”.
 > 
 > This is despite DFAT clearly saying only last week that there were no charter flights available out of India, that it does not “endorse” the flights and even pointing out Lion Air’s safety record.
-> 
-> An Australian tourist helping to organise a bus to travel from the state of Goa to Mumbai 600km north said he was “hoping for some assistance from the AHC”, but the commission seems to have “not included the Consulate General in Mumbai in the loop” about the new flight.
-> 
+
 > The Morrison government’s efforts to help Australians stranded offshore have been embarrassed by a raft of other nations helping their citizens around the world — including Germany, which is conducting a €50 million program of repatriation; the United Kingdom, which has four flights to Goa this week alone; as well as Finland, Bulgaria and many others
 > 
 > The government of Poland has coordinated use of national carrier LOT Polish Airlines for 388 flights to bring 55,000 people home from around the world. Poland have also permitted national of other European nations to board its planes and to collect their nationals once planes have landed in Europe.
@@ -275,15 +273,13 @@ This announcement was followed by airlines cancelling flights, news of Australia
 > Unlike may other countries, including significantly-less-wealthy Brazil and India, the Australian government is forcing its citizens to pay for their flights, even to the extent of providing loans to those that do not have resources for the $2000-plus fares.
 > 
 > The government has not fully co-opted either Qantas or  Virgin Australia. Both airlines are seeking massive taxpayer-funded bailouts. Reports have suggested that Qantas has struggled to find staff willing to man charter planes due to the risk of crew catching COVID-19 on recent flights.
-> 
-> Meanwhile, Crikey understands that Canberra has been in negotiations with Qatar Airways — a partner in the One World alliance of airlines, where Qantas is founding member — for flights from India to Doha and then onto Australia.
-> 
+
 > DFAT continues to advise that “the government strongly urges all Australians who wish to come home and who have access to commercial or charter flights, to do so now, without delay”.
 > 
 > The problem is now, from India and an increasing number of destinations popular with Australians such as Thailand, there are no flights to catch — only charters that the government appears more reticent than most to help organise.
 
 
-<a id="org12bb54a"></a>
+<a id="org8eb9569"></a>
 
 ### They've got X months to return (X = today's month - March 2020). If they still haven't returned then it must be their fault.
 
@@ -294,7 +290,7 @@ This announcement was followed by airlines cancelling flights, news of Australia
 People have been trying all they can to return. The caps and the lack of an orderly system have been preventing them.
 
 
-<a id="orgfcd606f"></a>
+<a id="org0b230b9"></a>
 
 # General References
 

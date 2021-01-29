@@ -1,30 +1,30 @@
 
 # Table of Contents
 
-1.  [All about stranded Aussies](#orgdba3d85)
-    1.  [Timeline](#org47d5691)
-    2.  [Numbers](#org2d8d2b8)
-        1.  [Caps](#orgca19874)
-        2.  [Stranded](#org4986437)
-        3.  [Returned](#orgbedf75d)
-    3.  [Solutions](#orgc394f02)
-    4.  [Government updates](#org0dcf6cf)
-    5.  [News updates](#orgee1a6c0)
-    6.  [Community updates](#orgcaf349c)
-    7.  [Campaigns](#org86cc939)
-    8.  [Resources](#orge39d462)
-    9.  [How you can help stranded Aussies](#org225b405)
-2.  [General References](#orgd73bf52)
+1.  [All about stranded Aussies](#org5130892)
+    1.  [Timeline](#org8100251)
+    2.  [Numbers](#orgd2bd267)
+        1.  [Caps](#orgc81efbf)
+        2.  [Stranded](#orgc3a8fd9)
+        3.  [Returned](#orgd5ca8be)
+    3.  [Solutions](#org4e2f055)
+    4.  [Government updates](#orgca10136)
+    5.  [News updates](#org1bc600e)
+    6.  [Community updates](#org9f5aa45)
+    7.  [Campaigns](#org5bb4f75)
+    8.  [Resources](#org4340f78)
+    9.  [How you can help stranded Aussies](#orgc2df067)
+2.  [General References](#org2a034d0)
 
 
-<a id="orgdba3d85"></a>
+<a id="org5130892"></a>
 
 # All about stranded Aussies
 
 Australian citizens and permanent residents are stranded around the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com if you have any feedback. This document is under public domain - you do not need any permission to modify or redistribute it.
 
 
-<a id="org47d5691"></a>
+<a id="org8100251"></a>
 
 ## Timeline
 
@@ -61,12 +61,12 @@ Australian citizens and permanent residents are stranded around the world unable
 -   **2021-01-25:** Australia halts New Zealand travel bubble for 72 hours over one case with South African strain <sup><a id="fnr.68" class="footref" href="#fn.68">68</a></sup>. Travellers coming from New Zealand to Australia will have to go into mandatory hotel quarantine. The suspection was later extended by another 72 hours <sup><a id="fnr.69" class="footref" href="#fn.69">69</a></sup>. On the same day, Australia approved the Pfizer vaccine <sup><a id="fnr.70" class="footref" href="#fn.70">70</a></sup>.
 
 
-<a id="org2d8d2b8"></a>
+<a id="orgd2bd267"></a>
 
 ## Numbers
 
 
-<a id="orgca19874"></a>
+<a id="orgc81efbf"></a>
 
 ### Caps
 
@@ -75,7 +75,7 @@ Initially about 6500, then lowered to about 4000 in July <sup><a id="fnr.26.100"
 The cap changes often take place gradually.
 
 
-<a id="org4986437"></a>
+<a id="orgc3a8fd9"></a>
 
 ### Stranded
 
@@ -98,11 +98,11 @@ Most of the numbers are number of people registered with DFAT that want to retur
 -   **2021-01-16:** [> 37k](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="orgbedf75d"></a>
+<a id="orgd5ca8be"></a>
 
 ### Returned
 
-These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org47d5691)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
+These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org8100251)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
 
 Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-travel-statistics-provisional), but the following number cannot be recovered from the public data at ABS as the latter implies the number of citizens and PR arrivals were 691k from March to December and 153k from April to December.
 
@@ -114,14 +114,14 @@ Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/indust
 -   **2021-01-16:** [440k since "people were told to reconsider the need to travel abroad at the start of the pandemic"](https://www.smh.com.au/politics/federal/stranded-australians-desperate-to-come-home-as-political-buck-passing-continues-20210115-p56ubm.html)
 
 
-<a id="orgc394f02"></a>
+<a id="org4e2f055"></a>
 
 ## Solutions
 
 Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.71" class="footref" href="#fn.71">71</a></sup><sup>, </sup><sup><a id="fnr.72" class="footref" href="#fn.72">72</a></sup><sup>, </sup><sup><a id="fnr.73" class="footref" href="#fn.73">73</a></sup>.
 
 
-<a id="org0dcf6cf"></a>
+<a id="orgca10136"></a>
 
 ## Government updates
 
@@ -130,7 +130,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
     -   search for 'national cabinet' there
 
 
-<a id="orgee1a6c0"></a>
+<a id="org1bc600e"></a>
 
 ## News updates
 
@@ -140,14 +140,14 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [The Age Coronavirus](https://www.theage.com.au/coronavirus-pandemic)
 
 
-<a id="orgcaf349c"></a>
+<a id="org9f5aa45"></a>
 
 ## Community updates
 
 -   twitter
     -   stranded Aussies: [#strandedAussies](https://twitter.com/hashtag/strandedAussies) [#getaussieshome](https://twitter.com/hashtag/getaussieshome) [#bringthemhome](https://twitter.com/hashtag/bringthemhome) [#removethecaps](https://twitter.com/hashtag/removethecaps), or [any of these hashtags](https://twitter.com/search?q=(%23strandedAussies%20OR%20%23getaussieshome%20OR%20%23bringthemhome%20OR%20%23removethecaps))
-    -   plus others (temp visa holders / partner visa holders / international students / exit ban) affected by border measures: [#WeAreNotOneAndFree](https://twitter.com/hashtag/WeAreNotOneAndFree) [#PrisonIsland](https://twitter.com/hashtag/PrisonIsland) [#MessageToScotty](https://twitter.com/hashtag/MessageToScotty) [#BrendanMurphy](https://twitter.com/hashtag/BrendanMurphy) [#EndTravelBan](https://twitter.com/hashtag/EndTravelBan) [#partnersapart](https://twitter.com/hashtag/partnersapart), or [any of these or above hashtags](https://twitter.com/search?q=\(%23strandedAussies OR %23getaussieshome OR %23bringthemhome OR %23removethecaps OR %23WeAreNotOneAndFree OR %23PrisonIsland OR %23MessageToScotty OR %23BrendanMurphy OR %23EndTravelBan OR %23partnersapart\))
-    -   plus general aus politics: [#auspol](https://twitter.com/hashtag/auspol) [#Scottyfrommarketing](https://twitter.com/hashtag/Scottyfrommarketing), or [any of these or above hashtags](https://twitter.com/search?q=\(%23strandedAussies OR %23getaussieshome OR %23bringthemhome OR %23removethecaps OR %23WeAreNotOneAndFree OR %23PrisonIsland OR %23MessageToScotty OR %23BrendanMurphy OR %23EndTravelBan OR %23partnersapart OR %23auspol OR %23Scottyfrommarketing\))
+    -   plus others (temp visa holders / partner visa holders / international students / exit ban) affected by border measures: [#WeAreNotOneAndFree](https://twitter.com/hashtag/WeAreNotOneAndFree) [#PrisonIsland](https://twitter.com/hashtag/PrisonIsland) [#MessageToScotty](https://twitter.com/hashtag/MessageToScotty) [#BrendanMurphy](https://twitter.com/hashtag/BrendanMurphy) [#EndTravelBan](https://twitter.com/hashtag/EndTravelBan) [#partnersapart](https://twitter.com/hashtag/partnersapart), or [any of these or above hashtags](https://twitter.com/search?q=(%23strandedAussies%20OR%20%23getaussieshome%20OR%20%23bringthemhome%20OR%20%23removethecaps%20OR%20%23WeAreNotOneAndFree%20OR%20%23PrisonIsland%20OR%20%23MessageToScotty%20OR%20%23BrendanMurphy%20OR%20%23EndTravelBan%20OR%20%23partnersapart))
+    -   plus general aus politics: [#auspol](https://twitter.com/hashtag/auspol) [#Scottyfrommarketing](https://twitter.com/hashtag/Scottyfrommarketing), or [any of these or above hashtags](https://twitter.com/search?q=(%23strandedAussies%20OR%20%23getaussieshome%20OR%20%23bringthemhome%20OR%20%23removethecaps%20OR%20%23WeAreNotOneAndFree%20OR%20%23PrisonIsland%20OR%20%23MessageToScotty%20OR%20%23BrendanMurphy%20OR%20%23EndTravelBan%20OR%20%23partnersapart%20OR%20%23auspol%20OR%20%23Scottyfrommarketing))
 -   reddit
     -   [r/australia](https://www.reddit.com/r/australia)
         -   [search for 'stranded' in r/australia](https://www.reddit.com/r/australia/search/?q=stranded&restrict_sr=1)
@@ -176,7 +176,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [strandedaussies.org](https://strandedaussies.org)
 
 
-<a id="org86cc939"></a>
+<a id="org5bb4f75"></a>
 
 ## Campaigns
 
@@ -194,7 +194,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [Get Us Bloody Home](https://www.getusbloodyhome.com/)
 
 
-<a id="orge39d462"></a>
+<a id="org4340f78"></a>
 
 ## Resources
 
@@ -205,12 +205,12 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
     -   [Human Rights Council Complaint Procedure | A Conscientious Objector's Guide to the International Human Rights System](https://www.co-guide.org/mechanism/human-rights-council-complaint-procedure)
 
 
-<a id="org225b405"></a>
+<a id="orgc2df067"></a>
 
 ## How you can help stranded Aussies
 
--   Join [campaigns](#org86cc939).
--   File [complaints](#orge39d462).
+-   Join [campaigns](#org5bb4f75).
+-   File [complaints](#org4340f78).
 -   If you are stranded, [register with DFAT](https://covid19.dfat.gov.au). The reported numbers of stranded Aussies come from their registry.
 -   If you have returned to Australia, keep advocating for those who are stranded and raise awareness.
 -   If you are a stranded international student, the sooner stranded Aussies make their way to Australia, the sooner you will. So advocate for them. Stranded Aussies should advocate for mistreated international students too.
@@ -218,7 +218,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   If you are affected by difficulty to travel to Australia on a temporary visa, advocating for stranded Aussies is also helping yourself.
 
 
-<a id="orgd73bf52"></a>
+<a id="org2a034d0"></a>
 
 # General References
 

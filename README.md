@@ -1,31 +1,31 @@
 
 # Table of Contents
 
-1.  [All about stranded Aussies](#org207bb4b)
-    1.  [Current Situation](#org8ca6c9b)
-    2.  [Timeline](#org13b2c70)
-    3.  [Numbers](#orga6cb787)
-        1.  [Caps](#org5f52765)
-        2.  [Stranded](#orge4bc81c)
-        3.  [Returned](#org02b8431)
-    4.  [Solutions](#org978563c)
-    5.  [Government updates](#org00f6b9a)
-    6.  [News updates](#org5bbf0bc)
-    7.  [Community updates](#orgdd7f494)
-    8.  [Campaigns](#org0ea54e6)
-    9.  [Resources](#org69bd459)
-    10. [How you can help stranded Aussies](#org4d4c544)
-2.  [General References](#org212a2dd)
+1.  [All about stranded Aussies](#orgdcf53c2)
+    1.  [Current Situation](#orge5d5b04)
+    2.  [Timeline](#org04105fd)
+    3.  [Numbers](#orga3e13b0)
+        1.  [Caps](#org91013d9)
+        2.  [Stranded](#orgdd64896)
+        3.  [Returned](#orgd0248d1)
+    4.  [Solutions](#org6146eda)
+    5.  [Government updates](#org09f4698)
+    6.  [News updates](#org11f6099)
+    7.  [Community updates](#org68bcee9)
+    8.  [Campaigns](#org6303c39)
+    9.  [Resources](#org2b17a0a)
+    10. [How you can help stranded Aussies](#org93764c3)
+2.  [General References](#org38c6a89)
 
 
-<a id="org207bb4b"></a>
+<a id="orgdcf53c2"></a>
 
 # All about stranded Aussies
 
 Australian citizens and permanent residents are stranded around the world unable to travel to Australia (henceforth referred to as "stranded Aussies"). This is a living document (meaning it is being updated) and a work in progress about the situation. Please open an issue or contact xKbwwk@protonmail.com if you have any feedback. This document is under public domain - you do not need any permission to modify or redistribute it.
 
 
-<a id="org8ca6c9b"></a>
+<a id="orge5d5b04"></a>
 
 ## Current Situation
 
@@ -44,7 +44,7 @@ Australian citizens and permanent residents are stranded around the world unable
 -   Number of stranded according to the media according to DFAT: [37k](https://www.abc.net.au/news/2021-01-31/ann-dixon-short-stuck-australian-in-uk-cancelled-flights/13105118).
 
 
-<a id="org13b2c70"></a>
+<a id="org04105fd"></a>
 
 ## Timeline
 
@@ -78,15 +78,16 @@ Australian citizens and permanent residents are stranded around the world unable
 -   **2021-01-15:** Emirates announced it was indefinitely suspending all flights to, or from, Brisbane, Sydney, and Melbourne <sup><a id="fnr.67" class="footref" href="#fn.67">67</a></sup>. About a week later the airline announced it will resume the flights <sup><a id="fnr.68" class="footref" href="#fn.68">68</a></sup>.
 -   **2021-01-16:** The Federal government announced 20 repatriation flights to return Australian citizens stranded overseas <sup><a id="fnr.69" class="footref" href="#fn.69">69</a></sup><sup>, </sup><sup><a id="fnr.70" class="footref" href="#fn.70">70</a></sup>.
 -   **2021-01-22:** National Cabinet decided not to lift the caps <sup><a id="fnr.4.100" class="footref" href="#fn.4">4</a></sup>.
--   **2021-01-25:** Australia halts New Zealand travel bubble for 72 hours over one case with South African strain <sup><a id="fnr.71" class="footref" href="#fn.71">71</a></sup>. Travellers coming from New Zealand to Australia will have to go into mandatory hotel quarantine. The suspection was later extended by another 72 hours <sup><a id="fnr.72" class="footref" href="#fn.72">72</a></sup>. On the same day, Australia approved the Pfizer vaccine <sup><a id="fnr.73" class="footref" href="#fn.73">73</a></sup>.
+-   **2021-01-25:** Australia halts New Zealand travel bubble for 72 hours over one case with South African strain <sup><a id="fnr.71" class="footref" href="#fn.71">71</a></sup>. Travellers coming from New Zealand to Australia will have to go into mandatory hotel quarantine. The suspection was later extended by another 72 hours <sup><a id="fnr.72" class="footref" href="#fn.72">72</a></sup> and ended on 2021-01-31. On the same day, Australia approved the Pfizer vaccine <sup><a id="fnr.73" class="footref" href="#fn.73">73</a></sup>.
+-   **2021-01-31:** Much of Western Australia goes into five-day lockdown after hotel guard tests positive to UK Covid variant <sup><a id="fnr.74" class="footref" href="#fn.74">74</a></sup>.
 
 
-<a id="orga6cb787"></a>
+<a id="orga3e13b0"></a>
 
 ## Numbers
 
 
-<a id="org5f52765"></a>
+<a id="org91013d9"></a>
 
 ### Caps
 
@@ -95,7 +96,7 @@ Initially about 6500, then lowered to about 4000 in July <sup><a id="fnr.31.100"
 The cap changes often take place gradually.
 
 
-<a id="orge4bc81c"></a>
+<a id="orgdd64896"></a>
 
 ### Stranded
 
@@ -119,11 +120,11 @@ Most of the numbers are number of people registered with DFAT that want to retur
 -   **2021-01-31:** [37k](https://www.abc.net.au/news/2021-01-31/ann-dixon-short-stuck-australian-in-uk-cancelled-flights/13105118)
 
 
-<a id="org02b8431"></a>
+<a id="orgd0248d1"></a>
 
 ### Returned
 
-These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org13b2c70)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
+These numbers are from government sources, e.g. DFAT. But most of them count from March 2020 with unknown exact start date. Note that a lot happened in March, including the border closure and the introduction of hotel quarantine (see [Timeline](#org04105fd)), and there might be a watershed moment sometime in the month, after which there were much fewer arrivals. Indeed, if you calculate the difference between the first reading on 2020-07-10 and the last reading on 2021-01-16 (assuming the last reading counted from the same date 2020-03-13), that is 83k over 6 months, or on average 14k per month. This is much lower than the average of 90k per month for the first four month (357k from 2020-03-13 to 2020-07-10).
 
 Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-travel-statistics-provisional), but the following number cannot be recovered from the public data at ABS as the latter implies the number of citizens and PR arrivals were 691k from March to December and 153k from April to December.
 
@@ -136,14 +137,14 @@ Numbers per month can be found at [ABS](https://www.abs.gov.au/statistics/indust
 -   **2021-01-31:** [80k](https://www.abc.net.au/news/2021-01-31/ann-dixon-short-stuck-australian-in-uk-cancelled-flights/13105118)
 
 
-<a id="org978563c"></a>
+<a id="org6146eda"></a>
 
 ## Solutions
 
-Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.74" class="footref" href="#fn.74">74</a></sup><sup>, </sup><sup><a id="fnr.75" class="footref" href="#fn.75">75</a></sup><sup>, </sup><sup><a id="fnr.76" class="footref" href="#fn.76">76</a></sup>.
+Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.75" class="footref" href="#fn.75">75</a></sup><sup>, </sup><sup><a id="fnr.76" class="footref" href="#fn.76">76</a></sup><sup>, </sup><sup><a id="fnr.77" class="footref" href="#fn.77">77</a></sup>.
 
 
-<a id="org00f6b9a"></a>
+<a id="org09f4698"></a>
 
 ## Government updates
 
@@ -152,7 +153,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
     -   search for 'national cabinet' there
 
 
-<a id="org5bbf0bc"></a>
+<a id="org11f6099"></a>
 
 ## News updates
 
@@ -162,7 +163,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [The Age Coronavirus](https://www.theage.com.au/coronavirus-pandemic)
 
 
-<a id="orgdd7f494"></a>
+<a id="org68bcee9"></a>
 
 ## Community updates
 
@@ -199,7 +200,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [strandedaussies.org](https://strandedaussies.org)
 
 
-<a id="org0ea54e6"></a>
+<a id="org6303c39"></a>
 
 ## Campaigns
 
@@ -216,23 +217,23 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   [Get Us Bloody Home](https://www.getusbloodyhome.com/)
 
 
-<a id="org69bd459"></a>
+<a id="org2b17a0a"></a>
 
 ## Resources
 
 -   [Australian Human Rights Commission](https://humanrights.gov.au/)
--   Ombudsmen: [National](https://www.ombudsman.gov.au), [VIC](https://www.ombudsman.vic.gov.au/)<sup><a id="fnr.77" class="footref" href="#fn.77">77</a></sup>, [NSW](https://www.ombo.nsw.gov.au/), [WA](https://www.ombudsman.wa.gov.au/), [QLD](https://www.ombudsman.qld.gov.au/), [SA](https://www.ombudsman.sa.gov.au/), [NT](http://www.ombudsman.nt.gov.au/), [ACT](https://www.ombudsman.act.gov.au/), [TAS](https://www.ombudsman.tas.gov.au/)
+-   Ombudsmen: [National](https://www.ombudsman.gov.au), [VIC](https://www.ombudsman.vic.gov.au/)<sup><a id="fnr.78" class="footref" href="#fn.78">78</a></sup>, [NSW](https://www.ombo.nsw.gov.au/), [WA](https://www.ombudsman.wa.gov.au/), [QLD](https://www.ombudsman.qld.gov.au/), [SA](https://www.ombudsman.sa.gov.au/), [NT](http://www.ombudsman.nt.gov.au/), [ACT](https://www.ombudsman.act.gov.au/), [TAS](https://www.ombudsman.tas.gov.au/)
 -   [United Nations Human Rights Council](https://www.ohchr.org/EN/HRBodies/HRC/Pages/Home.aspx)
     -   [Complaint Procedure Frequently asked questions](https://www.ohchr.org/EN/HRBodies/HRC/ComplaintProcedure/Pages/FAQ.aspx)
     -   [Human Rights Council Complaint Procedure | A Conscientious Objector's Guide to the International Human Rights System](https://www.co-guide.org/mechanism/human-rights-council-complaint-procedure)
 
 
-<a id="org4d4c544"></a>
+<a id="org93764c3"></a>
 
 ## How you can help stranded Aussies
 
--   Join [campaigns](#org0ea54e6).
--   File [complaints](#org69bd459).
+-   Join [campaigns](#org6303c39).
+-   File [complaints](#org2b17a0a).
 -   If you are stranded, [register with DFAT](https://covid19.dfat.gov.au). The reported numbers of stranded Aussies come from their registry.
 -   If you have returned to Australia, keep advocating for those who are stranded and raise awareness.
 -   If you are a stranded international student, the sooner stranded Aussies make their way to Australia, the sooner you will. So advocate for them. Stranded Aussies should advocate for mistreated international students too.
@@ -240,7 +241,7 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 -   If you are affected by difficulty to travel to Australia on a temporary visa, advocating for stranded Aussies is also helping yourself.
 
 
-<a id="org212a2dd"></a>
+<a id="org38c6a89"></a>
 
 # General References
 
@@ -397,10 +398,12 @@ Multiple solutions have been proposed in various opinion pieces <sup><a id="fnr.
 
 <sup><a id="fn.73" href="#fnr.73">73</a></sup> <https://www.news.com.au/lifestyle/health/coronavirus-australias-first-covid19-vaccination-approved-by-therapeutic-goods-administration/news-story/b0ab78da23e4fb3d9b318bd8f11b30ad>
 
-<sup><a id="fn.74" href="#fnr.74">74</a></sup> <http://estherrockett.com/2021/01/12/stranded-aussies-sacrificed-for-pandemic-politics-of-paranoia/>
+<sup><a id="fn.74" href="#fnr.74">74</a></sup> <https://www.theguardian.com/australia-news/2021/jan/31/much-of-western-australia-goes-into-five-day-lockdown-after-hotel-guard-tests-positive-to-uk-covid-variant>
 
-<sup><a id="fn.75" href="#fnr.75">75</a></sup> <https://action.amnesty.org.au/act-now/protect-the-right-of-stranded-aussies>
+<sup><a id="fn.75" href="#fnr.75">75</a></sup> <http://estherrockett.com/2021/01/12/stranded-aussies-sacrificed-for-pandemic-politics-of-paranoia/>
 
-<sup><a id="fn.76" href="#fnr.76">76</a></sup> <https://www.alp.org.au/petitions/stranded-aussies/>
+<sup><a id="fn.76" href="#fnr.76">76</a></sup> <https://action.amnesty.org.au/act-now/protect-the-right-of-stranded-aussies>
 
-<sup><a id="fn.77" href="#fnr.77">77</a></sup> Victorian Ombudsman investigated the Melbourne tower lockdown, concluded it is a human rights breach and demanded apologies from the VIC government (which the latter refused): <https://www.ombudsman.vic.gov.au/our-impact/investigation-reports/investigation-into-the-detention-and-treatment-of-public-housing-residents-arising-from-a-covid-19-hard-lockdown-in-july-2020/>, <https://www.bbc.com/news/world-australia-55342990>
+<sup><a id="fn.77" href="#fnr.77">77</a></sup> <https://www.alp.org.au/petitions/stranded-aussies/>
+
+<sup><a id="fn.78" href="#fnr.78">78</a></sup> Victorian Ombudsman investigated the Melbourne tower lockdown, concluded it is a human rights breach and demanded apologies from the VIC government (which the latter refused): <https://www.ombudsman.vic.gov.au/our-impact/investigation-reports/investigation-into-the-detention-and-treatment-of-public-housing-residents-arising-from-a-covid-19-hard-lockdown-in-july-2020/>, <https://www.bbc.com/news/world-australia-55342990>
